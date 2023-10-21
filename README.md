@@ -6,7 +6,7 @@ Full-stack Developer
 
 My name is James Dimacali, I am a 20-year-old Filipino with a passion for coding and problem-solving aspiring to excel as a Full Stack Developer.
 
-* 🌍  I'm based in Los Angeles
+* 🌍  I'm based in Los Angeles, California
 * 🖥️  See my portfolio at [https://jamesdimacali.vercel.app/](http://jamesdimacali.vercel.app/)
 * ✉️  You can contact me at [dimamatth@gmail.com](mailto:dimamatth@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms, Testing
